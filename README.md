@@ -3,10 +3,10 @@
 Этот проект представляет собой aсинхронный и синхронный парсер на Python 3.10, который скачивает бюллетени по итогам торгов с сайта Санкт-Петербургской Международной Товарно-сырьевой биржи (https://spimex.com/markets/oil_products/trades/results/), извлекает необходимые данные и сохраняет их в базу данных.
 ### Проведено сравнение времени выполнения синхронного и асинхронного парсера.
 Синхронный:
-<img width="941" alt="sync_parse" src="">
+<img width="941" alt="sync_parse" src="https://github.com/PavelShaura/spimex-parser-comparison/blob/main/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-06-26%2016-39-33.png">
 
 Асинхронный:
-<img width="941" alt="async_parse" src="">
+<img width="941" alt="async_parse" src="https://github.com/PavelShaura/spimex-parser-comparison/blob/main/screen/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-06-26%2016-39-49.png">
 
 ## Установка
 
